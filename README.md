@@ -11,6 +11,8 @@ This project aims to build a machine learning model that predicts whether a pati
 This is a binary classification problem:
 - 0 = No heart disease
 - 1 = Heart disease present
+  
+Google Colab: https://colab.research.google.com/drive/1LufoF51f8BSgBHGw4Ld9Mfa-HHFEXsgp?usp=sharing
 
 ---
 
@@ -18,7 +20,8 @@ This is a binary classification problem:
 
 Dataset: Cleveland Heart Disease Dataset  
 Source: UCI Machine Learning Repository  
-https://archive.ics.uci.edu/ml/datasets/heart+Disease  
+https://archive.ics.uci.edu/ml/datasets/heart+Disease 
+
 
 The dataset includes multiple medical features such as:
 
